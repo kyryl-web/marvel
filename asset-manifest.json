@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/marvel/static/css/main.54e99217.chunk.css",
-    "main.js": "/marvel/static/js/main.fe358c28.chunk.js",
-    "main.js.map": "/marvel/static/js/main.fe358c28.chunk.js.map",
-    "runtime-main.js": "/marvel/static/js/runtime-main.aa184cb0.js",
-    "runtime-main.js.map": "/marvel/static/js/runtime-main.aa184cb0.js.map",
+    "main.js": "/marvel/static/js/main.eb4ec11c.chunk.js",
+    "main.js.map": "/marvel/static/js/main.eb4ec11c.chunk.js.map",
+    "runtime-main.js": "/marvel/static/js/runtime-main.69be3921.js",
+    "runtime-main.js.map": "/marvel/static/js/runtime-main.69be3921.js.map",
     "static/js/2.9c64c695.chunk.js": "/marvel/static/js/2.9c64c695.chunk.js",
     "static/js/2.9c64c695.chunk.js.map": "/marvel/static/js/2.9c64c695.chunk.js.map",
     "static/js/3.fe22f3b2.chunk.js": "/marvel/static/js/3.fe22f3b2.chunk.js",
@@ -19,8 +19,8 @@
     "static/js/6.5a399946.chunk.js": "/marvel/static/js/6.5a399946.chunk.js",
     "static/js/6.5a399946.chunk.js.map": "/marvel/static/js/6.5a399946.chunk.js.map",
     "static/css/7.0581aa5e.chunk.css": "/marvel/static/css/7.0581aa5e.chunk.css",
-    "static/js/7.8efa83c3.chunk.js": "/marvel/static/js/7.8efa83c3.chunk.js",
-    "static/js/7.8efa83c3.chunk.js.map": "/marvel/static/js/7.8efa83c3.chunk.js.map",
+    "static/js/7.0abbac79.chunk.js": "/marvel/static/js/7.0abbac79.chunk.js",
+    "static/js/7.0abbac79.chunk.js.map": "/marvel/static/js/7.0abbac79.chunk.js.map",
     "static/js/8.197c4281.chunk.js": "/marvel/static/js/8.197c4281.chunk.js",
     "static/js/8.197c4281.chunk.js.map": "/marvel/static/js/8.197c4281.chunk.js.map",
     "index.html": "/marvel/index.html",
@@ -38,9 +38,9 @@
     "static/media/vision.067d4ae1.png": "/marvel/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa184cb0.js",
+    "static/js/runtime-main.69be3921.js",
     "static/js/3.fe22f3b2.chunk.js",
     "static/css/main.54e99217.chunk.css",
-    "static/js/main.fe358c28.chunk.js"
+    "static/js/main.eb4ec11c.chunk.js"
   ]
 }
